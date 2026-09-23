@@ -8,7 +8,7 @@ explains what the app collects, who it goes to, and what you can do about it.
 
 ## The short version
 
-Your game progress stays on your phone. The app shows ads, and the ad network
+Your game progress stays on your phone (and, if you have Android backup turned on, in your own Google account's device backup, which we cannot see). The app shows ads, and the ad network
 sees your device's advertising ID unless you tell it not to. The app also sends
 anonymous gameplay statistics — which levels are hard, which buttons get used —
 that are not tied to you or to your device.
